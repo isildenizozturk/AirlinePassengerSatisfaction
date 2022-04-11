@@ -1,4 +1,4 @@
-# AirlinePassengerSatisfaction by Classification
+# Predicting Airline Passenger Satisfaction with Classification
 
 ## Introuduction
 
